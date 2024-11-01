@@ -3,9 +3,12 @@ Work 15 hrs a day, No excuses!
 This is the way.
 
 
-Nov and December 2024.
+#### Nov and December 2024. 
+	Start date: 01 November 2024
+	End Date: 31st Deccember 2024
 
-#### DAY ONE OR ONE DAY, YOU DECIDE
+
+ >[!quote] DAY ONE OR ONE DAY, YOU DECIDE
 
 ## What is this Lock-in?
 	This is not for the weak hearted. This is intense. 
