@@ -1,6 +1,7 @@
 Locking-in for two months to become Web3 Security Researcher. 
 Work 15 hrs a day, No excuses!
 This is the way.
+This is a system, a system to set one's path towards betterment of oneself and web3 ecosystem.
 
 
 #### Nov and December 2024. 
