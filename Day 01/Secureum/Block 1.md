@@ -46,7 +46,7 @@ It is progressive decentralization and there are some elements of centralization
 - It still uses the entire stack, the TCP stack
 - But not as clients and server, rather as peer-to-peer that are exchanging msgs at that layer.
 - **Transactions:**  Ethereum tx are network msgs that include sender, recipient, transferring some value and data payload.
--  **State machine:** Ethereum state transitions are processed by the Ethereum Virtual Machine ([[EVM]]), a stack-based virtual machine that executes bytecode (machine-language instructions). 
+-  **State machine:** Ethereum state transitions are processed by the Ethereum Virtual Machine ([[Topics/EVM]]), a stack-based virtual machine that executes bytecode (machine-language instructions). 
 	- EVM programs, called "smart contracts," are written in high-level languages (e.g., Solidity or Vyper) and compiled to bytecode for execution on the EVM.
 - **Data structures:** Ethereum’s state is stored locally on each node as a database (usually Google’s LevelDB), which contains the transactions and system state in a serialized hashed data structure called a [[Merkle Patricia Tree]]
 - **Consensus Algorithm:** Nodes need to agree upon the global state and that is agreed upon by consensus algorithm.
@@ -58,7 +58,7 @@ It is progressive decentralization and there are some elements of centralization
 	- Most prominent of which are Go-Ethereum (Geth) and OpenEthereum. The others are Erigon, Nethermind and Turbo-geth.
 
 #### Halting Problem
-- Since [[EVM]] can read and write data to memory, it makes it a Turing-complete system.
+- Since [[Topics/EVM]] can read and write data to memory, it makes it a Turing-complete system.
 - The Turing complete systems face the challenge of the halting problem i.e.  given an arbitrary program and its input, it is not solvable to determine whether the program will eventually stop running.
 - So Ethereum cannot predict if a smart contract will terminate, or how long it will run. *Therefore, to constrain the resources used by a smart contract, Ethereum introduces a metering mechanism called gas*
 
