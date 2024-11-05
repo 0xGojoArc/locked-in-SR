@@ -56,6 +56,11 @@ It is progressive decentralization and there are some elements of centralization
 - The protocol itself, the consensus algo, data structures and other core components are implemented within what are known as Ethereum clients. 
 	- If you are running a Eth node then you are using one of these Eth Clients.
 	- Most prominent of which are Go-Ethereum (Geth) and OpenEthereum. The others are Erigon, Nethermind and Turbo-geth.
+- There are three main types of Ethereum Clients
+	1. Execution Client: also called as Eth1 engines, they handle execution of tx and maintain the state of the ethereum
+	2. Consensus Client: previosuly called Eth2 clients or Beacon nodes, implement PoS consensus mechanism
+	3. Light Clients: These clients do not store the entire blockchain but instead download only block headers. able to verify tx against the state roots.
+- The primary interface for communication between execution clients and consensus clients is the **Engine API**. This API defines the methods and protocols that allow these clients to exchange necessary information, such as transaction data and block proposals.
 
 #### Halting Problem
 - Since [[Topics/EVM]] can read and write data to memory, it makes it a Turing-complete system.
