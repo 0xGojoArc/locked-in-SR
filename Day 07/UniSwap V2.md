@@ -1,3 +1,5 @@
+##### [[UniSwap V2]]
+
 ##### Graph
 - Constant product AMM
 - A graph of constant product function shows all possible combinations of tokens in the pool.

@@ -1,3 +1,5 @@
+##### [[Foundry]]
+
 - Forge, anvil, and cast are the main commands of the foundry.
     
 - Forge is used for compiling and interacting with our contracts

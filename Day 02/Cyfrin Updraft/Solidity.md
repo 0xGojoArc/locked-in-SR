@@ -1,3 +1,5 @@
+##### [[Solidity]]
+
 - View and pure do not cost gas, 
 
 - bc view reads data from the blockchain

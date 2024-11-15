@@ -1,3 +1,5 @@
+##### [[Gas]]
+
 ##### Solidity string storage 
 - 32 non-zero bytes for Solidity native strings costs more gas than 31 non-zero bytes
 ##### - In EVM, strings are stored in two different patterns:

@@ -1,3 +1,5 @@
+##### [[EVM]]
+
 - Ethereum Virtual Machine ([[Day 04/EVM]]) is stack-based computer, responsible for execution of smart contact instructions.
 - All instruction take their parameter from the stack, **except for PUSHx**, it takes their parameters from the code
 ###### Smart Contract

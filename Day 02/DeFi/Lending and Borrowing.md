@@ -1,3 +1,6 @@
+##### [[Lending]] and [[Borrowing]]
+
+
 - It creates money markets for particular tokens such as Eth, DAI, USDC or wrapped BTC
 - Users supply their tokens to particular money market to become lenders
 	- lenders start receiving interest on their tokens according to current supply APY (Annual percentage yield)

@@ -1,5 +1,6 @@
-#21
+##### [[Block 2]]
 
+#21
 ###### Public key
 - It not secret, derived from private key
 - It's a point of the elliptic curve calculated from the private key using elliptic curve multiplication

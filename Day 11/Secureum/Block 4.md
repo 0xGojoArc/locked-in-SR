@@ -1,4 +1,4 @@
-
+##### [[Block 4]]
 ###### Memory
 - Data in memory is not persistent, it is volatile.
 - linear byte-array and addressable at byte-level

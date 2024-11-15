@@ -1,3 +1,6 @@
+##### [[Gas]]
+
+
 - Gas is unit of computational measurement.
 - The blockchains are run by a group of different nodes, and the economic incentives for the *node or miner or validator* is that **they get paid in the native currency of the blockchain** to process the tx, i.e. to run nodes.
 - The more complicated the tx is the more gas one has to pay.
