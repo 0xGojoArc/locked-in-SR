@@ -90,7 +90,7 @@
 	1. **State Trie**: Stores account states (e.g., balance, nonce, contract code).
 	2. **Transaction Trie**: Keeps records of all transactions in each block.
 	3. **Receipt Trie**: Stores transaction receipts, which contain info about the execution of transactions (e.g., gas used, logs).
-- ![[Screenshot 2024-11-10 at 10.07.09 AM.png]]
+- ![[merkle.png]]
 	- **Store Shared Prefixes Efficiently**: Accounts with common prefixes (`0xab`) share nodes in the tree, saving space.
 	- **Branch Only Where Necessary**: Only where accounts differ in IDs does the tree create branches, reducing the total number of nodes.
 - In Eth, it uses 16 children fir each node.
