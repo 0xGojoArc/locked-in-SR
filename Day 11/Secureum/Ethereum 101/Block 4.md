@@ -1,4 +1,4 @@
-##### [[Block 4]]
+##### [[Day 11/Secureum/Ethereum 101/Block 4]]
 ###### Memory
 - Data in memory is not persistent, it is volatile.
 - linear byte-array and addressable at byte-level

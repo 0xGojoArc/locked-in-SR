@@ -1,4 +1,5 @@
-##### [[Block 1]]
+##### [[Day 01/Secureum/Ethereum 101/Block 1]]
+
 #### Properties
 
 - ###### Permissionless Apps
