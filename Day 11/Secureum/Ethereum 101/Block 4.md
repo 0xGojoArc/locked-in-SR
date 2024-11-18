@@ -15,6 +15,7 @@
 	- This storageRoot within the Accs are further captured as part of the stateRoot, which is one of fields in the Block Header
 - SLOAD - loads word from storage and puts it on to the stack
 - SSTORE - stores a word from stack and puts it in the storage
+![[EVM-Storage.jpeg]]
 ###### Calldata
 - used for Data Parameters of Txs and Msg Calls
 - It is only read-only and byte-addressable

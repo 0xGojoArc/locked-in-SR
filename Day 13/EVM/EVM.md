@@ -10,3 +10,4 @@
 	- Call context:  In a single tx, you can have multiple function calls, but they may or may not create new call contexts depending on how they are invoked.
 	- if you trigger a contract function that makes multiple internal calls directly, they all share the same call context. However, if any of those internal calls are made as separate transactions, each will have its own call context.
 	- If the internal functions are called as separate transactions (using low-level calls like `call`, `delegatecall`, or `staticcall`), then new call contexts are created for each of these calls.
+![[EVM-Storage.jpeg]]
