@@ -1,4 +1,4 @@
-##### [[Block 2]]
+##### [[Day 06/Secureum/Ethereum 101/Block 2]]
 
 #21
 ###### Public key
