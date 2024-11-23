@@ -1,1 +1,0 @@
-[[Day 20/Secureum/Solidity 101/Block 1|Block 1]]

@@ -1,1 +1,0 @@
-[[Day 22/Secureum/Solidity 101]]

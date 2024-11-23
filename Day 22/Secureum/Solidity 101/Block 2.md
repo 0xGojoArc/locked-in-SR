@@ -1,3 +1,4 @@
+[[Solidity 101]]
 ##### Functions
 ###### Return Variables
 - in case of unnamed return variables an explicit `return` statement needs to used.
