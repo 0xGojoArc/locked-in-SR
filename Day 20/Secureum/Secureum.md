@@ -1,1 +1,1 @@
-[[Solidity 101]]
+[[Day 20/Secureum/Solidity 101/Solidity 101]]
