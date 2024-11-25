@@ -1,4 +1,4 @@
-##### [[Solidity]]
+##### [[Day 02/Cyfrin Updraft/Solidity]]
 
 - View and pure do not cost gas, 
 

@@ -14,7 +14,7 @@
     
 - Whenever we send metamask tx, we make an HTTP post req to RPC URL(node provider)
     
-- We can write script in [[solidity]] to deploy our contracts
+- We can write script in [[Day 02/Cyfrin Updraft/Solidity]] to deploy our contracts
     
 - Private key should not saved anywhere, use keystore.
     
