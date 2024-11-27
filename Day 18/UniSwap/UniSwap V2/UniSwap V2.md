@@ -1,4 +1,4 @@
-[[UniSwap V2]]
+[[Day 18/UniSwap/UniSwap V2/UniSwap V2]]
 
 ##### Graph
 - Constant product AMM

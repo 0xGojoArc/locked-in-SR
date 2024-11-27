@@ -1,4 +1,4 @@
-[[UniSwap V2]]
+[[Day 19/UniSwap/UniSwap V2/UniSwap V2]]
 ##### Router Swap Functions
 ###### **function `swapExactTokensForTokens`** 
 - Swap all the input for the max output
@@ -21,7 +21,3 @@
 	1. Directly sending tokens into Pair Contract
 	2. And then calling `swap` function on the Pair Contract
 
-**Internal swap function**
-
-![[UniSwapV2-function-internal-swap.png]]
-- 
